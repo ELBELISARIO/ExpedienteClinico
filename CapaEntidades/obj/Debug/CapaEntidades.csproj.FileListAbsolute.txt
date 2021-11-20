@@ -1,0 +1,12 @@
+D:\Windows\VisualStudio\ExpedienteClinico\CapaEntidades\bin\Debug\CapaEntidades.dll
+D:\Windows\VisualStudio\ExpedienteClinico\CapaEntidades\bin\Debug\CapaEntidades.pdb
+D:\Windows\VisualStudio\ExpedienteClinico\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+D:\Windows\VisualStudio\ExpedienteClinico\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+D:\Windows\VisualStudio\ExpedienteClinico\CapaEntidades\obj\Debug\CapaEntidades.dll
+D:\Windows\VisualStudio\ExpedienteClinico\CapaEntidades\obj\Debug\CapaEntidades.pdb
+E:\Windows\VisualStudio\ExpedienteClinico\CapaEntidades\bin\Debug\CapaEntidades.dll
+E:\Windows\VisualStudio\ExpedienteClinico\CapaEntidades\bin\Debug\CapaEntidades.pdb
+E:\Windows\VisualStudio\ExpedienteClinico\CapaEntidades\obj\Debug\CapaEntidades.csprojAssemblyReference.cache
+E:\Windows\VisualStudio\ExpedienteClinico\CapaEntidades\obj\Debug\CapaEntidades.csproj.CoreCompileInputs.cache
+E:\Windows\VisualStudio\ExpedienteClinico\CapaEntidades\obj\Debug\CapaEntidades.dll
+E:\Windows\VisualStudio\ExpedienteClinico\CapaEntidades\obj\Debug\CapaEntidades.pdb
